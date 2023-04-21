@@ -37,6 +37,7 @@ body{
 }
 
 .buttons button{
+  cursor: pointer;
   font-size: 20px;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   background-color: rgb(80, 113, 146);
@@ -63,7 +64,7 @@ body{
   align-items: flex-start;
 }
 
-div.najkrotszy, div.najdluszy, div.sredni{
+div.najkrotszy, div.najdluzszy, div.sredni{
   color: white;
   display: flex;
   justify-content: center;
